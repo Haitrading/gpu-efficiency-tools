@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.sqlite
+*.db
+*.env
+.env
+.venv/
+.DS_Store
+**/raw-private/
+**/private-logs/
