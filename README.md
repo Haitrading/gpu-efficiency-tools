@@ -77,4 +77,12 @@ Defaults: `127.0.0.1:18084` listener, `127.0.0.1:18083` upstream. **Do not expos
 
 [Security policy](SECURITY.md) · [Contributing](CONTRIBUTING.md) · [MIT License](LICENSE).
 
-**Support (optional):** Happy? Donate $1. Extremely happy? Donate $2. A public payment link may be added after its owner verifies it; no personal payment address is embedded here.
+## Support the project (optional)
+
+GPU Efficiency Tools is free and open source. Donations are entirely optional:
+
+- **Happy?** [Donate $1](https://paypal.me/GPUEfficiency/1USD)
+- **Extremely happy?** [Donate $2](https://paypal.me/GPUEfficiency/2USD)
+- [Choose your own amount](https://paypal.me/GPUEfficiency)
+
+Thank you for supporting independent open-source GPU efficiency research! No donation is required to use any part of this project.
